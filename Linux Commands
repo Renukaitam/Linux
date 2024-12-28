@@ -1,0 +1,69 @@
+ls -l: list the files and directories in long list format with extra information
+
+ls -a: list all including hidden files and directory
+
+ls *.sh: list all the files having .sh extension.
+
+ls -i: list the files and directories with index numbers inodes
+
+ls -d */: list only directories.(we can also specify a pattern)
+
+pwd: Prints the current working directory (present location).
+
+cd path_to_directory: Changes the directory to the specified path.
+
+cd ~ or just cd: Navigates to the home directory of the user.
+
+cd -: Switches to the last working directory.
+
+cd ..: Moves one directory level back (to the parent directory).
+
+cd ../..: Moves back two levels in the directory hierarchy.
+
+mkdir directoryName: Creates a new directory with the specified name
+
+cat filename: To view what's written in a file.
+
+chmod [permissions] [file/directory]: To change the access permissions of files or directories.
+
+history: To check which commands you have run till now.
+
+rm filename/directoryname: To remove a directory/file.
+
+rm -f filename/directoryname: To remove a directory/file forcefully.
+
+touch filename: To create empty file.
+
+touch filename1 filename2: To create 2 empty files.
+
+vim/cat filename: To view content in file.
+
+vim filename and then press i: To write content in file.
+
+ESC plus shift plus :wq!: To save and exit from file.
+
+cat file1 file2 > file3.txt: To combines the contents of file1 and file2 and writes the result to file3.txt.
+
+stat filename: To display detailed information about a file, including its timestamps (access time, modification time, and change time).
+
+touch -a filename: To update the access time of a file without modifying its content.
+
+touch -m filename: To update the modification time of a file in Linux.
+
+history > history: To save all history in filename as history.
+
+:w: It is used in Vim (a text editor) to save (write) the current contents of a file.
+
+:wq!: It is used in Vim to save the current file and quit the editor, even if there are unsaved changes or the file is marked as read-only.
+
+:q- It is used in Vim to quit the editor.
+
+:q- It is used in Vim to quit forcefully the editor.
+
+touch .filename: To create empty hiddenfile.
+
+mkdir .foldername: To create empty hiddenfolder.
+
+sudo apt -get update: To update the list of available software packages and their versions from the software repositories.
+
+sudo apt -get upgrade: To upgrade the list of available software packages and their versions from the software repositories.
