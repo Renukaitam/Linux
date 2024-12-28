@@ -1,7 +1,7 @@
 # Linux
 Everything about linux as a DevOps
 
-__History of Linux__ 
+**_History of Linux_**
 
 **Origins (1969-1990s)**
 
@@ -18,7 +18,7 @@ He announced it on a Usenet newsgroup and made it open-source, allowing anyone t
 Linux was combined with GNU tools, forming a complete free operating system.
 Over the years, Linux gained popularity for its stability, security, and adaptability, becoming the backbone of modern technology.
 
-#**Why Linux?**
+**_Why Linux?_**
 
 **Open Source and Free**
 Linux is free to use, modify, and distribute. This makes it ideal for both individuals and organizations.
