@@ -1,7 +1,7 @@
 # Linux
 Everything about linux as a DevOps
 
-****History of Linux ****
+__History of Linux__ 
 
 **Origins (1969-1990s)**
 
